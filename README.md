@@ -37,6 +37,7 @@ A full-stack web application for managing student records and their academic per
 ## 🗂️ Project Structure
 Student-Marks-Management-System/
 ├── src/
+
 │ ├── main/
 │ │ ├── java/ # Java source code
 │ │ └── resources/ # Application properties, templates, static files
