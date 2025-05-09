@@ -68,7 +68,9 @@ spring.jpa.hibernate.ddl-auto=update
 
 **3.Run the Application**
 mvn spring-boot:run
+
 **4.Access the Web App**
+
 Open your browser and navigate to:
 http://localhost:8080
 
